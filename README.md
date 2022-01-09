@@ -16,6 +16,7 @@
 #### E2E
 - [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274)
 - [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2](https://aclanthology.org/2020.acl-main.54/)
+- [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
 
 ## Human Robot Interaction
 ### Overview
