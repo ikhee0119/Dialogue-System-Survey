@@ -9,6 +9,7 @@
 
 ### Platform
 - [ConvLab: Multi-Domain End-to-End Dialog System Platform](https://arxiv.org/abs/1904.08637)
+- [ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems](https://arxiv.org/pdf/2002.04793.pdf)
 
 ### Model
 
