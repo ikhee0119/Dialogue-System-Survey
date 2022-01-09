@@ -18,8 +18,13 @@
 - [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2](https://aclanthology.org/2020.acl-main.54/)
 
 ## Guide Robot
+
 - [An Affective Guide Robot in a Shopping Mall](https://ieeexplore.ieee.org/document/6256015)
 - [KeJia Robot–An Attractive Shopping Mall Guider](https://link.springer.com/chapter/10.1007%2F978-3-319-25554-5_15)
 - [Tour-guide robot](https://ieeexplore.ieee.org/document/7462397)
 - [Demonstration of Hospital Receptionist Robot with Extended Hybrid Code Network to Select Responses and Gestures](https://ieeexplore.ieee.org/document/9197160)
 - [End-to-End Dialogue System with Multi Languages for Hospital Receptionist Robot](https://ieeexplore.ieee.org/document/8768694)
+
+key words
+- guide robot
+- receptionist
