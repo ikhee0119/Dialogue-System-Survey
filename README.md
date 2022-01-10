@@ -7,7 +7,7 @@
 ### Data
 - [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278)
 
-### Simulation to generate goal-oriented datasets
+### Dialogue Simulator
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
   - used by [End-to-End Dialogue System with Multi Languages for Hospital Receptionist Robot](https://ieeexplore.ieee.org/document/8768694)
 - [A Corpus-free State2Seq User Simulator for Task-oriented Dialogue](https://arxiv.org/abs/1909.04448)
