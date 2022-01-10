@@ -9,6 +9,7 @@
 
 ### Simulation to generate goal-oriented datasets
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
+- [Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems](https://arxiv.org/abs/2104.09088)
 
 ### Platform
 - [ConvLab: Multi-Domain End-to-End Dialog System Platform](https://arxiv.org/abs/1904.08637)
