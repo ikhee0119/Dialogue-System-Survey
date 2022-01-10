@@ -7,6 +7,9 @@
 ### Data
 - [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278)
 
+### Simulation to generate goal-oriented datasets
+- [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
+
 ### Platform
 - [ConvLab: Multi-Domain End-to-End Dialog System Platform](https://arxiv.org/abs/1904.08637)
 - [ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems](https://arxiv.org/pdf/2002.04793.pdf)
