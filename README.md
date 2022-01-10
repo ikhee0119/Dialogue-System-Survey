@@ -10,6 +10,7 @@
 ### Simulation to generate goal-oriented datasets
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
   - used by [End-to-End Dialogue System with Multi Languages for Hospital Receptionist Robot](https://ieeexplore.ieee.org/document/8768694)
+- [A Corpus-free State2Seq User Simulator for Task-oriented Dialogue](https://arxiv.org/abs/1909.04448)
 - [Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems](https://arxiv.org/abs/2104.09088)
 
 ### Platform
