@@ -12,6 +12,7 @@
   - used by [End-to-End Dialogue System with Multi Languages for Hospital Receptionist Robot](https://ieeexplore.ieee.org/document/8768694)
 - [A Corpus-free State2Seq User Simulator for Task-oriented Dialogue](https://arxiv.org/abs/1909.04448)
 - [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871)
+- [Dialog Simulation with Realistic Variations for Training Goal-Oriented Conversational Systems](https://arxiv.org/abs/2011.08243)
 - [Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems](https://arxiv.org/abs/2104.09088)
 
 ### Platform
