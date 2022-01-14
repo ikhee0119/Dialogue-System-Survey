@@ -6,6 +6,7 @@
 
 ### Data
 - [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278)
+- [The DialogBank](https://aclanthology.org/L16-1503/)
 
 ### Dialogue Simulator
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
