@@ -12,7 +12,7 @@
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
   - used by [End-to-End Dialogue System with Multi Languages for Hospital Receptionist Robot](https://ieeexplore.ieee.org/document/8768694)
 - [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871)
-- [A Corpus-free State2Seq User Simulator for Task-oriented Dialogue](https://arxiv.org/abs/1909.04448) [[code]](https://github.com/AtmaHou/UserSimulator)
+- [A Corpus-free State2Seq User Simulator for Task-oriented Dialogue](https://arxiv.org/abs/1909.04448) [[official code]](https://github.com/AtmaHou/UserSimulator)
 - [How to Build User Simulators to Train RL-based Dialog Systems](https://arxiv.org/abs/1909.01388) [[official code]](https://github.com/wyshi/user-simulator)
 - [Dialog Simulation with Realistic Variations for Training Goal-Oriented Conversational Systems](https://arxiv.org/abs/2011.08243)
   - Alexa Conversation
