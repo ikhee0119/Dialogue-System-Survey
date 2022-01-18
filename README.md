@@ -30,6 +30,7 @@
 - [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2](https://aclanthology.org/2020.acl-main.54/)
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
 - [UBAR: Towards Fully End-to-End Task-Oriented Dialogue System with GPT-2](https://arxiv.org/abs/2012.03539)
+- [Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System](https://arxiv.org/abs/2109.14739)
 - [Improving End-to-End Task-Oriented Dialogue System with A Simple Auxiliary Task](https://aclanthology.org/2021.findings-emnlp.112.pdf)
 
 ## Human Robot Interaction
