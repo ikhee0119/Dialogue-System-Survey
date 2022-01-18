@@ -8,6 +8,9 @@
 - [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278)
 - [The DialogBank](https://aclanthology.org/L16-1503/)
 
+### Data Augmentation
+- [CoCo: Controllable Counterfactuals for Evaluating Dialogue State Trackers](https://arxiv.org/abs/2010.12850)
+
 ### Dialogue Simulator
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
   - used by [End-to-End Dialogue System with Multi Languages for Hospital Receptionist Robot](https://ieeexplore.ieee.org/document/8768694)
