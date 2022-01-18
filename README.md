@@ -29,6 +29,8 @@
 - [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274)
 - [End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2](https://aclanthology.org/2020.acl-main.54/)
 - [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683)
+- [UBAR: Towards Fully End-to-End Task-Oriented Dialogue System with GPT-2](https://arxiv.org/abs/2012.03539)
+- [Improving End-to-End Task-Oriented Dialogue System with A Simple Auxiliary Task](https://aclanthology.org/2021.findings-emnlp.112.pdf)
 
 ## Human Robot Interaction
 ### Overview
